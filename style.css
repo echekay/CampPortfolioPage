@@ -1,0 +1,17 @@
+.navbar {
+  background-color: #0e1d91;
+}
+
+
+.container {
+  background-color: #9d9fb2;
+}
+
+.profile-image {
+  height: 200px;
+  width: 200px;
+}
+
+footer {
+  text-align: center;
+}
